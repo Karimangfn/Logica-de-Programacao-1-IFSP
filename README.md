@@ -41,13 +41,20 @@ Na disciplina de Lógica de Programação aprendemos a compreender os conceitos 
 
 Para acessar os repositórios com os códigos fonte dos projetos, basta clicar no link correspondente:
 
-- [dev.finace$](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Atividades/A2)
-- [Formulario](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Atividades/A3)
-- [API Covid](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/4A)
-- [Introdução ao React - Parte 1](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Atividades/A5)
-- [Introdução ao React - Parte 2](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Atividades/A6)
-- [Testes Unitarios com Jest](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Atividades/A7)
-- [Projeto Single Page Application - Site de Jogos (React)](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Projeto-SPA)
+- [Atividade 1]()
+- [Atividade 2]()
+- [Atividade 3]()
+- [Atividade 4]()
+- [Atividade 5]()
+- [Atividade 6]()
+- [Atividade 7]()
+- [Atividade 8]()
+- [Atividade 9]()
+- [Atividade 10]()
+- [Atividade 11]()
+- [Atividade 12]()
+- [Atividade 13]()
+- [Projeto - Perfil Representacional]
 </p>
 
 

@@ -17,7 +17,7 @@
 
 ## 🗃️ Repositório
 
-Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de Desenvolvimento WEB II, do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
+Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de Lógica de Programação I e II, do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
 
 ## 🏫 IFSP
 
@@ -35,7 +35,7 @@ O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) 
 
 ## 📚 Disciplina
 
-A disciplina Desenvolvimento WEB II aprofunda os conhecimentos acerca do desenvolvimento de aplicações web do lado cliente. Nela é aprofundada a linguagem JavaScript, apresentando as principais características e técnicas de desenvolvimento, permitindo o desenvolvimento de aplicações de fácil manutenção, eficientes, eficazes e organizadas, também é apresentando o conceito de Single Page Application, junto com os frameworks React e Angular para desenvolvimento de projetos
+Na disciplina de Lógica de Programação aprendemos a compreender os conceitos de algoritmos e de lógica de programação.Entender os conceitos de estrutura sequencial, estrutura de seleção e estruturas de repetição no contexto de algoritmos. Conhecer os primeiros exemplos de algoritmos e algumas técnicas para construção de algoritmos. Conhecer os operadores relacionais e os operadores lógicos. Entender a Tabela verdade dos operadores lógicos. Compreender a ordem de precedência entre operadores.
 
 ## 💻 Projetos
 

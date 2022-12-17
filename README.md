@@ -35,7 +35,7 @@ O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) 
 
 ## 📚 Disciplina
 
-Na disciplina de Lógica de Programação aprendemos a compreender os conceitos de algoritmos e de lógica de programação. Entender os conceitos de estrutura sequencial, estrutura de seleção e estruturas de repetição no contexto de algoritmos. Conhecer os primeiros exemplos de algoritmos e algumas técnicas para construção de algoritmos. Conhecer os operadores relacionais e os operadores lógicos. Entender a Tabela verdade dos operadores lógicos. Compreender a ordem de precedência entre operadores.
+Na disciplina de Lógica de Programação aprendemos a compreender os conceitos de algoritmos e da lógica usada no desenvolvimento de aplicações. Entender os conceitos de estrutura sequencial, estrutura de seleção e estruturas de repetição no contexto de algoritmos. Conhecer os primeiros exemplos de algoritmos e algumas técnicas para construção de algoritmos. Conhecer os operadores relacionais e os operadores lógicos. Entender a Tabela verdade dos operadores lógicos. Compreender a ordem de precedência entre operadores.
 
 ## 💻 Atividades e Projetos
 

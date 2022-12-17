@@ -41,20 +41,20 @@ Na disciplina de Lógica de Programação aprendemos a compreender os conceitos 
 
 Para acessar os repositórios com os códigos fonte dos projetos, basta clicar no link correspondente:
 
-- [Atividade 1]()
-- [Atividade 2]()
-- [Atividade 3]()
-- [Atividade 4]()
-- [Atividade 5]()
-- [Atividade 6]()
-- [Atividade 7]()
-- [Atividade 8]()
-- [Atividade 9]()
-- [Atividade 10]()
+- [Atividade 1](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Atividades/Atividade%201)
+- [Atividade 2](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Atividades/Atividade%202)
+- [Atividade 3](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Atividades/Atividade%203)
+- [Atividade 4](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Atividades/Atividade%204)
+- [Atividade 5](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Atividades/Atividade%205)
+- [Atividade 6](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Atividades/Atividade%206)
+- [Atividade 7](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Atividades/Atividade%207)
+- [Atividade 8](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Atividades/Atividade%208)
+- [Atividade 9](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Atividades/Atividade%209)
+- [Atividade 10](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Atividades/Atividade%2010)
 - [Atividade 11]()
 - [Atividade 12]()
 - [Atividade 13]()
-- [Projeto - Perfil Representacional]()
+- [Projeto - Perfil Representacional](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Projeto%20-%20Perfil%20Representacional)
 </p>
 
 

@@ -57,6 +57,50 @@ Para acessar os repositórios com os códigos fonte dos projetos, basta clicar n
 - [Projeto - Perfil Representacional](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Projeto%20-%20Perfil%20Representacional)
 </p>
 
+## ▶️ Como Executar Arquivos
+
+### Linguagem C
+1. **Verifique se o GCC está instalado**:
+    ```bash
+    gcc --version
+    ```
+
+    - Se não estiver instalado:
+      - **Ubuntu/Debian**:  
+        ```bash
+        sudo apt install build-essential
+        ```
+      - **macOS**:  
+        ```bash
+        xcode-select --install
+        ```
+      - **Windows**: Instale MinGW ou Cygwin.
+
+2. **Compile o código**:
+    ```bash
+    gcc exemplo.c -o exemplo
+    ```
+
+3. **Execute o código**:
+    - **Linux/macOS**:
+      ```bash
+      ./exemplo
+      ```
+    - **Windows**:
+      ```bash
+      exemplo.exe
+      ```
+
+### VisualG (`.alg`)
+1. **Baixe e instale o VisualG**:  
+   - Acesse: [https://visualg3.com.br](https://visualg3.com.br)  
+   - Faça o download e instale no Windows.
+
+2. **Abra o arquivo no VisualG**:
+   - No VisualG, clique em **Arquivo → Abrir** e selecione o arquivo `.alg`.
+
+3. **Execute o código**:
+   - No VisualG, clique no botão **▶️ Executar** ou pressione `F9`.
 
 
 ## 🚀 Tecnologias

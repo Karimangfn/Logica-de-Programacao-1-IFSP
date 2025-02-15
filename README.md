@@ -41,14 +41,14 @@ Na disciplina de Lógica de Programação aprendemos a compreender os conceitos 
 
 Para acessar os repositórios com os códigos fonte dos projetos, basta clicar no link correspondente:
 
-- [Atividade 1 (C)](https://github.com/Karimangfn/Logica-de-Programacao-1-IFSP/tree/main/Atividades%20(C)/Aula%201)
-- [Atividade 2 (C)](https://github.com/Karimangfn/Logica-de-Programacao-1-IFSP/tree/main/Atividades%20(C)/Aula%202)
-- [Atividade 1 (Visualg)](https://github.com/Karimangfn/Logica-de-Programacao-1-IFSP/tree/main/Atividades%20(VisuAlg)/Aula%201)
-- [Atividade 2 (Visualg)](https://github.com/Karimangfn/Logica-de-Programacao-1-IFSP/tree/main/Atividades%20(VisuAlg)/Aula%202)
-- [Atividade 3 (Visualg)](https://github.com/Karimangfn/Logica-de-Programacao-1-IFSP/tree/main/Atividades%20(VisuAlg)/Aula%203)
-- [Atividade 4 (Visualg)](https://github.com/Karimangfn/Logica-de-Programacao-1-IFSP/tree/main/Atividades%20(VisuAlg)/Aula%204)
-- [Atividade 5 (Visualg)](https://github.com/Karimangfn/Logica-de-Programacao-1-IFSP/tree/main/Atividades%20(VisuAlg)/Aula%205)
-- [Projeto - Perfil Representacional](https://github.com/Karimangfn/Logica-de-Programacao/tree/main/Projeto%20-%20Perfil%20Representacional)
+- [Atividade 1 (C)](https://github.com/Karimangfn/Logica-de-Programacao-I-IFSP/tree/main/Atividades%20(C)/Aula%201)
+- [Atividade 2 (C)](https://github.com/Karimangfn/Logica-de-Programacao-I-IFSP/tree/main/Atividades%20(C)/Aula%202)
+- [Atividade 1 (Visualg)](https://github.com/Karimangfn/Logica-de-Programacao-I-IFSP/tree/main/Atividades%20(VisuAlg)/Aula%201)
+- [Atividade 2 (Visualg)](https://github.com/Karimangfn/Logica-de-Programacao-I-IFSP/tree/main/Atividades%20(VisuAlg)/Aula%202)
+- [Atividade 3 (Visualg)](https://github.com/Karimangfn/Logica-de-Programacao-I-IFSP/tree/main/Atividades%20(VisuAlg)/Aula%203)
+- [Atividade 4 (Visualg)](https://github.com/Karimangfn/Logica-de-Programacao-I-IFSP/tree/main/Atividades%20(VisuAlg)/Aula%204)
+- [Atividade 5 (Visualg)](https://github.com/Karimangfn/Logica-de-Programacao-I-IFSP/tree/main/Atividades%20(VisuAlg)/Aula%205)
+- [Projeto - Perfil Representacional](https://github.com/Karimangfn/Logica-de-Programacao-I-IFSP/tree/main/Projeto%20-%20Perfil%20Representacional)
 </p>
 
 ## ▶️ Como Executar Arquivos

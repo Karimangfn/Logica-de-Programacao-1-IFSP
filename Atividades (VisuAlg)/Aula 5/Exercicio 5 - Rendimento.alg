@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "rendimento"
 
 Var
 Deposito,Juros,ValorRendimento,ValorTotal: Real
@@ -11,6 +11,6 @@ Leia(Juros)
 ValorRendimento <-  (Juros * Deposito) / 100
 ValorTotal <- ValorRendimento + Deposito
 Escreval("O Seu Valor de Rendimento �:", ValorRendimento)
-Escreva("O Seu Valor Total �:", ValorTotal)
+Escreva("O Seu Valor Total é:", ValorTotal)
 
 Fimalgoritmo

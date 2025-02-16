@@ -9,6 +9,6 @@ Leia(DiagonalMaior)
 Escreva("Digite o Valor do Diagonal Menor do Losango: ")
 Leia(DiagonalMenor)
 Area <-  (DiagonalMaior * DiagonalMenor)/2
-Escreva("O Valor da Area do Losango  � ", Area)
+Escreva("O Valor da Area do Losango é ", Area)
 
 Fimalgoritmo

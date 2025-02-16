@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "arearetangulo"
 
 Var
 Base, Altura, Area: Real

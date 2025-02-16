@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "subtracao"
 
 Var
 n1,n2,resultado: inteiro

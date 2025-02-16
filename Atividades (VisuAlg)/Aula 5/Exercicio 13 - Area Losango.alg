@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "arealosango"
 
 Var
 DiagonalMaior, DiagonalMenor, Area: Real

@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "areatriangulo"
 
 Var
 Base,Altura,Area: Real
@@ -9,6 +9,6 @@ Leia(Base)
 Escreva("Digite o Valor da Altura do Triangulo: ")
 Leia(Altura)
 Area <- (Base * Altura)  / 2
-Escreva("O Valor da Area do Triangulo � ", Area)
+Escreva("O Valor da Area do Triangulo é ", Area)
 
 Fimalgoritmo

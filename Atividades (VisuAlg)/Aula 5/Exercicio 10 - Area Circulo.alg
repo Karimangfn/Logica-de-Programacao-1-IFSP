@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "areacirculo"
 
 Var
 Area, Raio, ValorDePi: Real

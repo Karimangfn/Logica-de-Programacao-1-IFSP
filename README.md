@@ -9,7 +9,7 @@
   <a href="#-ifsp">IFSP</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-curso">Curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-disciplina">Disciplina</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-atividades">Atividades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-como-executar-arquivos">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
@@ -38,7 +38,7 @@ O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) 
 
 Na disciplina de Lógica de Programação aprendemos a compreender os conceitos de algoritmos e da lógica usada no desenvolvimento de aplicações. Nela Entendemos os conceitos de estrutura sequencial, estrutura de seleção e estruturas de repetição no contexto de algoritmos. Conhecer os primeiros exemplos de algoritmos e algumas técnicas para construção de algoritmos. Conhecer os operadores relacionais e os operadores lógicos. Entender a Tabela verdade dos operadores lógicos. Compreender a ordem de precedência entre operadores.
 
-## 💻 Atividades e Projetos
+## 💻 Atividades
 
 Para acessar os repositórios com os códigos fonte dos projetos, basta clicar no link correspondente:
 

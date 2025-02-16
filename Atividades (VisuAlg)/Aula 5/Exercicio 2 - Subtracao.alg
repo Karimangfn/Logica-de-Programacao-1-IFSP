@@ -9,6 +9,6 @@ Leia(n1)
 Escreva("Digite o Segundo Numero: ")
 Leia(n2)
 resultado <- (n2 - n1)
-Escreva("O Resultado da Subtra��o de",n2, " por",n1," � igual a", resultado)
+Escreva("O Resultado da Subtração de",n2, " por",n1," é igual a", resultado)
 
 Fimalgoritmo

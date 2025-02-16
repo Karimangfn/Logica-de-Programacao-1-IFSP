@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "multiplicacao"
 
 Var
 n1,n2,resultado: inteiro
@@ -9,6 +9,6 @@ Leia(n1)
 Escreva("Digite o Segundo Numero: ")
 Leia(n2)
 resultado <- (n1 * n2)
-Escreva("O Resultado da Multiplica��o entre", n1, " e", n2," � igual a", resultado)
+Escreva("O Resultado da Multiplicação entre", n1, " e", n2," é igual a", resultado)
 
 Fimalgoritmo

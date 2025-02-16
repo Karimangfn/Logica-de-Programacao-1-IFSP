@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "mediaponderada"
 
 Var
 Nota1, Nota2, Peso1, Peso2, MediaPonderada: Real
@@ -13,6 +13,6 @@ Leia(Peso1)
 Escreva("Digite o Segundo Peso: ")
 Leia(Peso2)
 MediaPonderada <- (Nota1 * Peso1 + Nota2 * Peso2) / (Peso1 + Peso2)
-Escreva("Sua Media Ponderada � ",MediaPonderada:2:1)
+Escreva("Sua Media Ponderada é ",MediaPonderada:2:1)
 
 Fimalgoritmo

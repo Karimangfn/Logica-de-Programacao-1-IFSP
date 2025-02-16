@@ -47,10 +47,4 @@ senao
    Escreval("Estas Matrizes sao diferentes")
 fimse
 
-
-
-
-
-
-
 Fimalgoritmo

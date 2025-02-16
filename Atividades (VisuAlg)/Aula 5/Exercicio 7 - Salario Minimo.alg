@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "salariominimo"
 
 Var
 Salario, SalarioMinimo1, SalarioMinimo2: Real

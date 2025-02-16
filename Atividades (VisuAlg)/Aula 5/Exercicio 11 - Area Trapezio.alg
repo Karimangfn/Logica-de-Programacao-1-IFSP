@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "areatrapezio"
 
 Var
 BaseMaior, BaseMenor, Altura, Area: Real

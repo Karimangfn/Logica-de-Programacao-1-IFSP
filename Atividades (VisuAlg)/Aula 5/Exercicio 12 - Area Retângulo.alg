@@ -4,11 +4,11 @@ Var
 Base, Altura, Area: Real
 
 Inicio
-Escreva("Digite o Valor da Base do Ret�ngulo: ")
+Escreva("Digite o Valor da Base do Retângulo: ")
 Leia(Base)
-Escreva("Digite o Valor do Altura do Ret�ngulo: ")
+Escreva("Digite o Valor do Altura do Retângulo: ")
 Leia(Altura)
 Area <-  Base * Altura
-Escreva("O Valor da Area do Ret�ngulo  � ", Area)
+Escreva("O Valor da Area do Retângulo é ", Area)
 
 Fimalgoritmo
